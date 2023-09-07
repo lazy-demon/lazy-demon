@@ -1,4 +1,4 @@
-- 👋 Hi, I’m _LazyDemon(@lazy-demon)
+- 👋 Hi, I’m Jeffrey Boone (@lazy-demon)
 - 👀 I’m interested in AI research
 - 🌱 I’m currently learning to use Vertex AI with Python
 
